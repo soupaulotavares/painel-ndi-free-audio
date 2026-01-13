@@ -22,17 +22,17 @@ Importante: O aplicativo deve ser executado como Administrador para conseguir ge
 
 ## 📥 Instalação de Dependências (Terceiros)
 
-NDI Free Audio:
+NDI Free Audio 6.2.1:
 1. Baixe em: ndi.video/tools/free-audio
 2. Copie o arquivo executável para a pasta "C:/Painel NDI Free Audio/"
 Renomeie o arquivo para "NDIFreeAudio.exe"
 
-NSSM (Non-Sucking Service Manager):
+NSSM 2.24 (Non-Sucking Service Manager):
 1. Baixe em: nssm.cc/download
 2. Copie o executável para "C:/Painel NDI Free Audio/"
 3. Renomeie o arquivo para "nssm.exe"
 
-VB-CABLE Driver:
+VB-CABLE Driver OCT 2024:
 1. Baixe o arquivo VBCABLE_Driver_Pack45.zip em vb-audio.com/Cable
 2. Extraia todo o conteúdo do arquivo .zip para a pasta: "C:/Painel NDI Free Audio/VBCABLE/"
 
