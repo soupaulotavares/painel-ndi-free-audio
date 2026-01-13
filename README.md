@@ -20,6 +20,22 @@ Uma pasta chamada VBCABLE contendo o VBCABLE_Setup_x64.exe.
 
 Importante: O aplicativo deve ser executado como Administrador para conseguir gerenciar serviços e regras de firewall.
 
+## 📥 Instalação de Dependências (Apps de Terceiros)
+
+NDI Free Audio:
+1. Baixe em: ndi.video/tools/free-audio
+2. Copie o arquivo executável para a pasta "C:/Painel NDI Free Audio/"
+Renomeie o arquivo para "NDIFreeAudio.exe"
+
+NSSM (Non-Sucking Service Manager):
+1. Baixe em: nssm.cc/download
+2. Copie o executável para "C:/Painel NDI Free Audio/"
+3. Renomeie o arquivo para "nssm.exe"
+
+VB-CABLE Driver:
+1. Baixe o arquivo VBCABLE_Driver_Pack45.zip em vb-audio.com/Cable
+2. Extraia todo o conteúdo do arquivo .zip para a pasta: "C:/Painel NDI Free Audio/VBCABLE/"
+
 ## 📖 Como Usar
 1. Identificar Dispositivos
 Clique em "ESCANEAR DISPOSITIVOS" na coluna da direita. O log mostrará os IDs disponíveis (ex: 0, 1, 2). Anote o ID do microfone ou da saída de som que deseja usar.
