@@ -20,7 +20,7 @@ Uma pasta chamada VBCABLE contendo o VBCABLE_Setup_x64.exe.
 
 Importante: O aplicativo deve ser executado como Administrador para conseguir gerenciar serviços e regras de firewall.
 
-## 📥 Instalação de Dependências (Apps de Terceiros)
+## 📥 Instalação de Dependências (Terceiros)
 
 NDI Free Audio:
 1. Baixe em: ndi.video/tools/free-audio
@@ -61,4 +61,4 @@ Precisa de cabos virtuais? Use o botão "INSTALAR VB-CABLE" para abrir o instala
 Serviço não inicia? Verifique se o ID do dispositivo está correto e se o NDIFreeAudio.exe está na mesma pasta do painel.
 
 ## 💻 Tecnologias Utilizadas
-Python 3, CustomTkinter, NSSM (Non-Sucking Service Manager), PowerShell (para automação de comandos de sistema).
+Python 3, CustomTkinter, NSSM (Non-Sucking Service Manager), NDI, PowerShell (para automação de comandos de sistema).
